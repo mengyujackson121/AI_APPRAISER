@@ -30,6 +30,7 @@ def clean_data(df):
     df = df.select_dtypes("number")
     df = df.dropna()
     target = df.pop('price').values
+    df.pop('view')
     return df, target
 
 
