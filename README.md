@@ -1,4 +1,4 @@
-# Project 2 -- Bank Helper
+# Bank Helper
 
 
 
