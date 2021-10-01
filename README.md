@@ -1,6 +1,4 @@
-# Bank Helper
-
-
+# Project 2: AI APPRAISER
 
 ## Overview
 
